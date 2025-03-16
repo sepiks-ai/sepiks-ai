@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sepiks-ai
+- 👋 Hi, I’m Paul Harrald founder of @sepiks-ai
 - 👀 I’m lay-interested in simulations of biological an economic systems
 - 🌱 My business is working on some dramatic hyperpersonalised AI.
 - 💞️ I’m looking to collaborate on both...
