@@ -1,4 +1,4 @@
-- I’m Paul Harrald founder of @sepiks-ai
+- I’m Paul Harrald founder of sepiks.ai
 - I’m lay-interested in simulations of biological an economic systems
 - My business is working on some dramatic hyperpersonalised AI.
 - How to reach me paul@sepiks.ai
